@@ -23,7 +23,7 @@ All software, wiring design, and core functionality belong to the original creat
 
 ## What's Included
 
-### STL Files
+### STL Files 
 
 These are ready-to-print files for your 3D printer:
 
@@ -62,7 +62,7 @@ These are recommended if you're using a Bambu printer, as they remove most of th
 * Ensure proper alignment of ports before fully securing components
 * Use appropriate screws for Raspberry Pi mounting - It should accomadate the screws that come with the POE case combo mentioned in his parts list
 * Modify or sand slightly if your printer tolerances differ
-
+* Images of the prints are included in the repo
 ---
 
 ## Purpose
