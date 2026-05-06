@@ -34,7 +34,7 @@ These are ready-to-print files for your 3D printer:
   The top section that encloses and protects the internals
   
 * **Plug Caps / Interface Parts** File name: Pi Zero POE Plugs.stl
-  Any external component designed to protect the unused I/O ports.
+  Any external component designed to protect the unused I/O ports. These are friction fit, they hold themselves in, but can easily be popped out for access to ports or sd card.
 
 * **Project & GCODE Files**
   Project and GCODE files can be opened directly inside of Bambu Studio.
