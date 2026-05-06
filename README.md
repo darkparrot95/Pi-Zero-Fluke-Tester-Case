@@ -82,13 +82,6 @@ This was printed on a Bambu Labs P1S and should work if you use my code
 
 ---
 
-## License
-
-[Insert your license here — MIT, GPL, etc.]
-
----
-
-
 ## Acknowledgments
 
 Huge thanks to the (https://github.com/MKWB) for designing and sharing the Fluke tester project that made this build possible.
