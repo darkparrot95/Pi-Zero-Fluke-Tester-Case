@@ -23,6 +23,8 @@ All software, wiring design, and core functionality belong to the original creat
 
 ## What's Included
 
+## Link to Maker World Files: https://makerworld.com/en/models/2762958-pi-zero-case-for-mkwb-s-raspberry-fluke#profileId-3067740
+
 ### STL Files 
 
 These are ready-to-print files for your 3D printer:
