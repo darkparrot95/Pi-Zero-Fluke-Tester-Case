@@ -6,8 +6,6 @@ This repository contains the 3D printable files and project assets for a custom-
 
 The goal of this case is to provide a clean, functional, and portable enclosure that securely houses the Raspberry Pi and supporting components while maintaining accessibility and usability for testing and field use.
 
-This case was specifically designed around an existing Fluke tester project created by another developer. Full credit for the original electronics and concept goes to them https://github.com/MKWB (see below).
-
 ---
 
 ## Original Project Credit
