@@ -38,8 +38,11 @@ These are ready-to-print files for your 3D printer:
 
 * **Project & GCODE Files**
   Project and GCODE files can be opened directly inside of Bambu Studio.
-  -File name: Pi Zero POE Gcode_Bambu_P1S_PLA_2h51m.gcode - Presliced GCODE file for PLA ! .16 High Quality - Print time right under 3 hours - Supports added as well and they break off clean if pulled when hot.
-  -File name: Pi Zero POE Project Bambu.3mf - The project File that can just be opened in Bambu Studio with all the STL's on one plate - Use Split funtion if multiple parts are combined and you want to print in different colors
+
+  -File name: Pi Zero POE Gcode_Bambu_P1S_PLA_2h51m.gcode - Presliced GCODE file for PLA ! .16 High Quality - Print time right under 3 hours - Supports added as well       and they break off clean if pulled when hot.
+
+  -File name: Pi Zero POE Project Bambu.3mf - The project File that can just be opened in Bambu Studio with all the STL's on one plate - Use Split funtion if multiple      parts are combined and you want to print in different colors
+
   -File name: Pi Zero POE Sliced Plate File.gcode.3mf - A sliced plate file exported from Bambu
 
 ---
